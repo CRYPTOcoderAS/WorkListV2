@@ -16,7 +16,7 @@
   </a>
   </p>
 
-  > A simple Todo App using personally for tasks reminders. Also edited by Shashank Sharma the great.
+  > A simple Todo App using personally for tasks reminders.
 
   ## APP PREVIEW
 
