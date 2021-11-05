@@ -60,13 +60,13 @@ f5 / debug
 
 <td>
 
-👤 **Shashank Sharma**
+👤 **Akshat Sachan**
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/cryptocoderas"  height="120" alt="Shashank Sharma">
+<img src = "https://avatars.githubusercontent.com/cryptocoderas"  height="120" alt="AkshatSachan">
 </p>
 <p align="center">
-<a href = "https://github.com/Shawshank-01">
+<a href = "https://github.com/CryptocoderAS">
 <img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" 
 width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/akshat-sachan-58b2921ab/">
@@ -92,14 +92,14 @@ Give a ⭐️ if you liked this project or it helped you!
 
 ## 📝 License
 
-Copyright © 2021 [Shashank Sharma](https://github.com/Shawshank-01)<br />
+Copyright © 2021 [Shashank Sharma](https://github.com/CryptocoderAS)<br />
 This project is [MIT](none) licensed.
 
 ## MIT License 
 
 ```
 
-Copyright (c) 2021 SHASHANK SHARMA
+Copyright (c) 2021 Akshat Sachan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
