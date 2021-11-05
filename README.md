@@ -92,7 +92,7 @@ Give a ⭐️ if you liked this project or it helped you!
 
 ## 📝 License
 
-Copyright © 2021 [Shashank Sharma](https://github.com/CryptocoderAS)<br />
+Copyright © 2021 [Akshat Sachan](https://github.com/CryptocoderAS)<br />
 This project is [MIT](none) licensed.
 
 ## MIT License 
